@@ -23,3 +23,6 @@ Prerequisites
 Python 3.8 or newer
 Hugging Face Transformers library
 Docker (optional)
+
+
+This project isn't done yet. It's at a point where people wont understand the bigger picture. The epiphany will come in later in coming months, years. Creating order out of chaos. 
