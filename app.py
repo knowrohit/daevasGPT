@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-from daevasAGI import DaevasAGI
+from infant_daevas import DaevasAGI
 
 app = Flask(__name__)
 daevas = DaevasAGI()
