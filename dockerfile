@@ -1,4 +1,6 @@
 # Use an official Python runtime as a parent image
+
+#this dockerfile is only compatible with infant_daevas.py file. More addtions to be made with respect to matching dependicies and modularity of the codebase
 FROM python:3.8
 
 # Set the working directory to /Bernard
@@ -11,7 +13,8 @@ COPY static/ /Bernard/static/
 COPY templates/ /Bernard/templates/
 COPY tokenizers/ /Bernard/tokenizers/
 COPY app.py /Bernard/
-COPY daevasAGI.py /Bernard/
+COPY infant_daevas.py /Bernard/
+COPY toddler_daevas.py /Bernard/
 COPY requirements.txt /Bernard/
 
 # Install any needed packages specified in requirements.txt
