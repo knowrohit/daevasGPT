@@ -25,7 +25,7 @@ Daevas aims to emulate human-like understanding and reasoning by seamlessly inte
 
 - Commercial use license: Unlike some models, Daevas is licensed for the possibility of commercial use, offering flexibility for different applications and purposes.
 
-- Open-source training code: Daevas is built on the MosaicML LLM codebase, which is available in the llm-foundry repository. The open-source nature of the training code promotes collaboration and further advancements in the field.
+- Open-source training code: Daevas is built on the mosaic. The open-source nature of the training code promotes collaboration and further advancements in the field.
 
 - Toddler and Infant models: Daevas includes two variants of chatbot models. The MPT 7B based GPT model is named "toddler_daevas.py," while the models based on Bert and ChatGLM are named "infant_daevas.py." Each model offers unique capabilities and functionalities.
 
