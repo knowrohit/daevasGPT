@@ -1,6 +1,6 @@
 # DaevasGPT: An AI-Maximalist Approach to Artificial General Intelligence 🧠
 
-Daevas is an ambitious and interactive project that harnesses the power of cutting-edge transformer models to push the boundaries of artificial general intelligence (AGI). The script utilizes the Hugging Face Transformers library to create a versatile and adaptive chatbot capable of tackling a wide range of natural language processing tasks.
+Daevas is an ambitious project/vision that harnesses the power of transformer models to push the boundaries of artificial general intelligence (AGI). The script utilizes the Hugging Face Transformers library to create a versatile and adaptive chatbot capable of tackling a wide range of natural language processing tasks.
 
 # 🌟 Features
 Daevas aims to emulate human-like understanding and reasoning by seamlessly integrating various language-based capabilities. The chatbot can:
