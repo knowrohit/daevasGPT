@@ -101,7 +101,7 @@ if __name__ == "__main__":
     "write code to convert my chatbot.py to flask application. here is my python script : import re import torch from transformers import (AutoModel, AutoTokenizer, AutoModelForSequenceClassification, MarianMTModel, MarianTokenizer, DistilBertForSequenceClassification class DaevasAGI: def __init__(self): self.chat_tokenizer = AutoTokenizer.from_pretrained(/content/drive/MyDrive/bernard/chatglmmodel_tokenizer, trust_remote_code=True) self.chat_model = AutoModel.from_pretrained(/content/drive/MyDrive/bernard/chatglmmodel, trust_remote_code=True).half().cuda() self.chat_model.eval()  ",
     "translate to hindi: Hello, how are you",
     "translate to english: मेरा नाम रोहित है और मैं बर्लिन में रहता हूँ",
-    "Sentiment: When it come to chicks, I never be the one to save,Keep on throwing ones, I'm with Mustard and we talkin' Lambo' talk (Skrrt, skrrt). Virgil dropped some Louis, I want everything he made and I'm just tryna relax. They always come off cool but in the end they come out wack (Wack). Her boyfriend getting mad, I told her he could take you back"
+    "Sentiment: When it come to chicks, I never be the one to save,Keep on throwing ones, I'm with Mustard and we talkin' Lambo' talk (Skrrt, skrrt). Virgil dropped some Louis, I want everything he made and I'm just tryna relax. They always come off cool but in the end they come out wack. Her boyfriend getting mad, I told her he could take you back"
 ]
 
 
